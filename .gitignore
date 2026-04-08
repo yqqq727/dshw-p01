@@ -55,6 +55,11 @@ data/temp/
 *.h5
 *.pkl
 
+# Quarto
+_book/
+*.html
+quarto-public/
+
 # Sensitive
 *.key
 *.pem

@@ -1,10 +1,5 @@
 ## P01：金融数据获取、管理与初步分析
 
-[![Quarto Publish](https://github.com/yqqq727/dshw-p01/actions/workflows/render-and-publish.yml/badge.svg)](https://github.com/yqqq727/dshw-p01/actions/workflows/render-and-publish.yml)
-[![GitHub](https://img.shields.io/badge/GitHub-仓库-blue.svg)](https://github.com/yqqq727/dshw-p01)
-
-**📖 在线电子书**: https://yqqq727.github.io/dshw-p01/
-
 ### 股票列表
 | 代码 | 名称 | 行业 | 选股理由 |
 |------|------|------|---------|
@@ -83,45 +78,3 @@ https://github.com/yqqq727/dshw-p01
 **分析周期**：2020年1月1日 - 2026年4月8日
 
 *本项目仅供学习研究使用，不构成任何投资建议。*
-
----
-
-## 📖 Quarto 在线电子书
-
-本项目已使用 **Quarto** 渲染为在线电子书，发布在 GitHub Pages。
-
-**访问地址**: https://yqqq727.github.io/dshw-p01/
-
-### 电子书特色
-- ✅ 完整的项目文档，包含所有分析章节
-- ✅ 响应式设计，支持移动端阅读
-- ✅ 代码可折叠，便于快速浏览
-- ✅ 目录导航，快速跳转到任意章节
-- ✅ 专业的排版和样式
-- ✅ 支持深色模式
-
-### 电子书章节
-1. **项目概述** - 项目介绍与阅读指南
-2. **数据获取与清洗**
-   - 数据下载
-   - 数据清洗与管理
-3. **统计分析与可视化**
-   - 统计分析与可视化（包含4张核心图表和CAPM分析）
-4. **投资策略建议**
-   - 投资策略与实操指南
-5. **附录**
-   - 执行摘要与投资建议
-
-### 如何本地渲染
-如需在本地渲染电子书，请安装 [Quarto](https://quarto.org/) 并运行：
-
-```bash
-# 安装 Quarto（如果尚未安装）
-# 从 https://quarto.org/ 下载安装包
-
-# 渲染电子书
-quarto render
-
-# 在浏览器中预览
-quarto preview
-```

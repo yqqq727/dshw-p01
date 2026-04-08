@@ -1,0 +1,44 @@
+on:
+  workflow_dispatch:
+  push:
+    branches: [main, master]
+    paths:
+      - '*.qmd'
+      - '*.ipynb'
+      - '_quarto.yml'
+      - 'styles.css'
+      - '.github/workflows/*'
+
+name: Quarto Publish
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+
+      - name: 设置 Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+
+      - name: 安装 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: 安装依赖
+        run: |
+          pip install jupyter pandas numpy matplotlib seaborn scipy statsmodels tabulate
+
+      - name: 渲染电子书
+        run: |
+          quarto render
+
+      - name: 部署到 GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_book

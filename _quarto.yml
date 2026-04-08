@@ -1,0 +1,41 @@
+project:
+  type: book
+
+book:
+  title: "P01: 金融数据获取、管理与初步分析"
+  author: "量化金融分析项目"
+  date: "2026-04-08"
+  chapters:
+    - index.qmd
+    - part: "第一部分：数据获取与清洗"
+      chapters:
+        - 01_download.ipynb
+        - 02_clean.ipynb
+    - part: "第二部分：统计分析与可视化"
+      chapters:
+        - 03_analysis.ipynb
+
+  sidebar:
+    style: docked
+    search: true
+    collapse_level: 2
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    code-fold: true
+    code-tools: true
+    code-copy: true
+    highlight-style: github
+    css: styles.css
+
+execute:
+  freeze: auto
+  cache: true
+  warning: false
+  message: false

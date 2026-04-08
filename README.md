@@ -1,5 +1,9 @@
 ## P01：金融数据获取、管理与初步分析
 
+[![Quarto Publish](https://github.com/yqqq727/dshw-p01/actions/workflows/render-and-publish.yml/badge.svg)](https://github.com/yqqq727/dshw-p01/actions/workflows/render-and-publish.yml)
+
+**📖 在线电子书**: https://yqqq727.github.io/dshw-p01/
+
 ### 股票列表
 | 代码 | 名称 | 行业 | 选股理由 |
 |------|------|------|---------|

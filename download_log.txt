@@ -1,0 +1,833 @@
+[2026-04-08 10:32:37] SUCCESS stock_600036 shape=(1516, 15)
+[2026-04-08 10:32:39] SUCCESS stock_601166 shape=(1516, 15)
+[2026-04-08 10:32:40] SUCCESS stock_600519 shape=(1516, 15)
+[2026-04-08 10:32:42] SUCCESS stock_000858 shape=(1516, 15)
+[2026-04-08 10:32:43] SUCCESS stock_600104 shape=(1516, 15)
+[2026-04-08 10:32:44] SUCCESS stock_002594 shape=(1516, 15)
+[2026-04-08 10:32:45] SUCCESS stock_600048 shape=(1516, 15)
+[2026-04-08 10:32:46] SUCCESS stock_000002 shape=(1516, 15)
+[2026-04-08 10:32:47] SUCCESS stock_601857 shape=(1516, 15)
+[2026-04-08 10:32:48] SUCCESS stock_600050 shape=(1516, 15)
+[2026-04-08 10:32:49] SUCCESS index_000300 shape=(1070, 16)
+[2026-04-08 10:32:50] SUCCESS index_000905 shape=(1070, 16)
+[2026-04-08 10:33:10] SUCCESS macro_cpi shape=(477, 5)
+[2026-04-08 10:33:12] SUCCESS macro_usd shape=(180, 6)
+[2026-04-08 10:33:13] [INFO] 600036 - 原始数据形状: (80, 102)
+[2026-04-08 10:33:13] [SUCCESS] 600036 - 提取 399 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024), np.int32(2025)]
+[2026-04-08 10:33:14] [INFO] 600519 - 原始数据形状: (80, 102)
+[2026-04-08 10:33:14] [SUCCESS] 600519 - 提取 468 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024)]
+[2026-04-08 10:33:16] [INFO] 000858 - 原始数据形状: (80, 110)
+[2026-04-08 10:33:16] [SUCCESS] 000858 - 提取 480 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024)]
+[2026-04-08 10:33:17] [INFO] 600104 - 原始数据形状: (80, 111)
+[2026-04-08 10:33:17] [SUCCESS] 600104 - 提取 556 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024), np.int32(2025)]
+[2026-04-08 10:33:18] [INFO] 002594 - 原始数据形状: (80, 76)
+[2026-04-08 10:33:18] [SUCCESS] 002594 - 提取 560 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024), np.int32(2025)]
+[2026-04-08 10:33:20] [INFO] 600048 - 原始数据形状: (80, 85)
+[2026-04-08 10:33:20] [SUCCESS] 600048 - 提取 480 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024)]
+[2026-04-08 10:33:21] [INFO] 000002 - 原始数据形状: (80, 117)
+[2026-04-08 10:33:21] [SUCCESS] 000002 - 提取 556 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024), np.int32(2025)]
+[2026-04-08 10:33:22] [INFO] 601857 - 原始数据形状: (80, 92)
+[2026-04-08 10:33:23] [SUCCESS] 601857 - 提取 560 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024), np.int32(2025)]
+[2026-04-08 10:33:24] [INFO] 600050 - 原始数据形状: (80, 99)
+[2026-04-08 10:33:24] [SUCCESS] 600050 - 提取 553 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024), np.int32(2025)]
+[2026-04-08 10:33:25] [INFO] 601166 - 原始数据形状: (80, 89)
+[2026-04-08 10:33:25] [SUCCESS] 601166 - 提取 399 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024), np.int32(2025)]
+[2026-04-08 10:33:25] [INFO] SYSTEM - 财务数据下载完成，共 10 只股票，134 条记录
+[2026-04-08 10:35:13] SUCCESS stock_600036 shape=(1516, 15)
+[2026-04-08 10:35:19] SUCCESS stock_601166 shape=(1516, 15)
+[2026-04-08 10:35:29] SUCCESS stock_600519 shape=(1516, 15)
+[2026-04-08 10:35:35] SUCCESS stock_000858 shape=(1516, 15)
+[2026-04-08 10:35:43] SUCCESS stock_600104 shape=(1516, 15)
+[2026-04-08 10:35:49] SUCCESS stock_002594 shape=(1516, 15)
+[2026-04-08 10:35:54] SUCCESS stock_600048 shape=(1516, 15)
+[2026-04-08 10:35:59] SUCCESS stock_000002 shape=(1516, 15)
+[2026-04-08 10:36:04] SUCCESS stock_601857 shape=(1516, 15)
+[2026-04-08 10:36:06] FAILED stock_600050 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 10:36:09] SUCCESS index_000300 shape=(1070, 16)
+[2026-04-08 10:36:15] SUCCESS index_000905 shape=(1070, 16)
+[2026-04-08 10:36:40] SUCCESS macro_cpi shape=(477, 5)
+[2026-04-08 10:36:41] SUCCESS macro_usd shape=(180, 6)
+[2026-04-08 10:36:42] [INFO] 600036 - 原始数据形状: (80, 102)
+[2026-04-08 10:36:42] [SUCCESS] 600036 - 提取 399 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024), np.int32(2025)]
+[2026-04-08 10:36:44] [INFO] 600519 - 原始数据形状: (80, 102)
+[2026-04-08 10:36:44] [SUCCESS] 600519 - 提取 468 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024)]
+[2026-04-08 10:36:45] [INFO] 000858 - 原始数据形状: (80, 110)
+[2026-04-08 10:36:45] [SUCCESS] 000858 - 提取 480 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024)]
+[2026-04-08 10:36:46] [INFO] 600104 - 原始数据形状: (80, 111)
+[2026-04-08 10:36:46] [SUCCESS] 600104 - 提取 556 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024), np.int32(2025)]
+[2026-04-08 10:36:47] [INFO] 002594 - 原始数据形状: (80, 76)
+[2026-04-08 10:36:47] [SUCCESS] 002594 - 提取 560 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024), np.int32(2025)]
+[2026-04-08 10:36:49] [INFO] 600048 - 原始数据形状: (80, 85)
+[2026-04-08 10:36:49] [SUCCESS] 600048 - 提取 480 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024)]
+[2026-04-08 10:36:53] [INFO] 000002 - 原始数据形状: (80, 117)
+[2026-04-08 10:36:53] [SUCCESS] 000002 - 提取 556 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024), np.int32(2025)]
+[2026-04-08 10:36:58] [INFO] 601857 - 原始数据形状: (80, 92)
+[2026-04-08 10:36:58] [SUCCESS] 601857 - 提取 560 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024), np.int32(2025)]
+[2026-04-08 10:37:06] [INFO] 600050 - 原始数据形状: (80, 99)
+[2026-04-08 10:37:06] [SUCCESS] 600050 - 提取 553 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024), np.int32(2025)]
+[2026-04-08 10:37:08] [INFO] 601166 - 原始数据形状: (80, 89)
+[2026-04-08 10:37:08] [SUCCESS] 601166 - 提取 399 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024), np.int32(2025)]
+[2026-04-08 10:37:08] [INFO] SYSTEM - 财务数据下载完成，共 10 只股票，134 条记录
+[2026-04-08 15:26:48] FAILED stock_600036 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 15:26:49] FAILED stock_601166 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 15:26:49] FAILED stock_600519 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 15:26:50] FAILED stock_000858 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 15:26:51] FAILED stock_600104 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 15:26:52] FAILED stock_002594 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 15:26:53] FAILED stock_600048 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 15:26:53] FAILED stock_000002 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 15:26:54] FAILED stock_601857 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 15:26:55] FAILED stock_600050 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 15:26:56] SUCCESS index_000300 shape=(1070, 16)
+[2026-04-08 15:26:57] SUCCESS index_000905 shape=(1070, 16)
+[2026-04-08 15:27:16] SUCCESS macro_cpi shape=(477, 5)
+[2026-04-08 15:27:17] SUCCESS macro_usd shape=(180, 6)
+[2026-04-08 15:27:19] [INFO] 600036 - 原始数据形状: (80, 102)
+[2026-04-08 15:27:19] [SUCCESS] 600036 - 提取 399 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024), np.int32(2025)]
+[2026-04-08 15:27:22] [INFO] 600519 - 原始数据形状: (80, 102)
+[2026-04-08 15:27:22] [SUCCESS] 600519 - 提取 468 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024)]
+[2026-04-08 15:27:25] [INFO] 000858 - 原始数据形状: (80, 110)
+[2026-04-08 15:27:26] [SUCCESS] 000858 - 提取 480 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024)]
+[2026-04-08 15:27:27] [INFO] 600104 - 原始数据形状: (80, 111)
+[2026-04-08 15:27:27] [SUCCESS] 600104 - 提取 556 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024), np.int32(2025)]
+[2026-04-08 15:27:28] [INFO] 002594 - 原始数据形状: (80, 76)
+[2026-04-08 15:27:28] [SUCCESS] 002594 - 提取 560 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024), np.int32(2025)]
+[2026-04-08 15:27:30] [INFO] 600048 - 原始数据形状: (80, 85)
+[2026-04-08 15:27:30] [SUCCESS] 600048 - 提取 480 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024)]
+[2026-04-08 15:27:31] [INFO] 000002 - 原始数据形状: (80, 117)
+[2026-04-08 15:27:31] [SUCCESS] 000002 - 提取 556 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024), np.int32(2025)]
+[2026-04-08 15:27:33] [INFO] 601857 - 原始数据形状: (80, 92)
+[2026-04-08 15:27:33] [SUCCESS] 601857 - 提取 560 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024), np.int32(2025)]
+[2026-04-08 15:27:34] [INFO] 600050 - 原始数据形状: (80, 99)
+[2026-04-08 15:27:34] [SUCCESS] 600050 - 提取 553 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024), np.int32(2025)]
+[2026-04-08 15:27:35] [INFO] 601166 - 原始数据形状: (80, 89)
+[2026-04-08 15:27:36] [SUCCESS] 601166 - 提取 399 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024), np.int32(2025)]
+[2026-04-08 15:27:36] [INFO] SYSTEM - 财务数据下载完成，共 10 只股票，536 条记录
+[2026-04-08 15:32:46] FAILED stock_600036 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 15:32:47] FAILED stock_601166 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 15:32:48] FAILED stock_600519 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 15:32:48] FAILED stock_000858 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 15:32:49] FAILED stock_600104 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 15:32:50] FAILED stock_002594 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 15:32:51] FAILED stock_600048 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 15:32:51] FAILED stock_000002 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 15:32:52] FAILED stock_601857 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 15:32:53] FAILED stock_600050 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 15:32:54] SUCCESS index_000300 shape=(1070, 16)
+[2026-04-08 15:32:55] SUCCESS index_000905 shape=(1070, 16)
+[2026-04-08 15:33:13] SUCCESS macro_cpi shape=(477, 5)
+[2026-04-08 15:33:14] SUCCESS macro_usd shape=(180, 6)
+[2026-04-08 15:33:16] [INFO] 600036 - 原始数据形状: (80, 102)
+[2026-04-08 15:33:16] [SUCCESS] 600036 - 提取 399 条记录
+[2026-04-08 15:33:17] [INFO] 600519 - 原始数据形状: (80, 102)
+[2026-04-08 15:33:17] [SUCCESS] 600519 - 提取 468 条记录
+[2026-04-08 15:33:19] [INFO] 000858 - 原始数据形状: (80, 110)
+[2026-04-08 15:33:19] [SUCCESS] 000858 - 提取 480 条记录
+[2026-04-08 15:33:21] [INFO] 600104 - 原始数据形状: (80, 111)
+[2026-04-08 15:33:21] [SUCCESS] 600104 - 提取 556 条记录
+[2026-04-08 15:33:24] [INFO] 002594 - 原始数据形状: (80, 76)
+[2026-04-08 15:33:24] [SUCCESS] 002594 - 提取 560 条记录
+[2026-04-08 15:33:25] [INFO] 600048 - 原始数据形状: (80, 85)
+[2026-04-08 15:33:25] [SUCCESS] 600048 - 提取 480 条记录
+[2026-04-08 15:33:27] [INFO] 000002 - 原始数据形状: (80, 117)
+[2026-04-08 15:33:27] [SUCCESS] 000002 - 提取 556 条记录
+[2026-04-08 15:33:28] [INFO] 601857 - 原始数据形状: (80, 92)
+[2026-04-08 15:33:28] [SUCCESS] 601857 - 提取 560 条记录
+[2026-04-08 15:33:29] [INFO] 600050 - 原始数据形状: (80, 99)
+[2026-04-08 15:33:29] [SUCCESS] 600050 - 提取 553 条记录
+[2026-04-08 15:33:30] [INFO] 601166 - 原始数据形状: (80, 89)
+[2026-04-08 15:33:30] [SUCCESS] 601166 - 提取 399 条记录
+[2026-04-08 15:33:30] [INFO] SYSTEM - 财务数据下载完成，共 10 只股票，536 条记录
+[2026-04-08 15:37:59] [FAILED] stock_600036 - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 15:38:00] [FAILED] stock_601166 - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 15:38:01] [FAILED] stock_600519 - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 15:38:01] [FAILED] stock_000858 - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 15:38:02] [FAILED] stock_600104 - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 15:38:03] [FAILED] stock_002594 - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 15:38:04] [FAILED] stock_600048 - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 15:38:05] [FAILED] stock_000002 - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 15:38:05] [FAILED] stock_601857 - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 15:38:06] [FAILED] stock_600050 - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 15:38:07] [SUCCESS] index_000300 - shape=(1070, 16)
+[2026-04-08 15:38:08] [SUCCESS] index_000905 - shape=(1070, 16)
+[2026-04-08 15:38:27] [SUCCESS] macro_cpi - shape=(477, 5)
+[2026-04-08 15:38:28] [SUCCESS] macro_usd - shape=(180, 6)
+[2026-04-08 15:38:30] [INFO] 600036 - 原始数据形状: (80, 102)
+[2026-04-08 15:38:30] [SUCCESS] 600036 - 提取 399 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024), np.int32(2025)]
+[2026-04-08 15:38:31] [INFO] 601166 - 原始数据形状: (80, 89)
+[2026-04-08 15:38:31] [SUCCESS] 601166 - 提取 399 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024), np.int32(2025)]
+[2026-04-08 15:38:33] [INFO] 600519 - 原始数据形状: (80, 102)
+[2026-04-08 15:38:33] [SUCCESS] 600519 - 提取 468 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024)]
+[2026-04-08 15:38:34] [INFO] 000858 - 原始数据形状: (80, 110)
+[2026-04-08 15:38:35] [SUCCESS] 000858 - 提取 480 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024)]
+[2026-04-08 15:38:36] [INFO] 600104 - 原始数据形状: (80, 111)
+[2026-04-08 15:38:37] [SUCCESS] 600104 - 提取 556 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024), np.int32(2025)]
+[2026-04-08 15:38:38] [INFO] 002594 - 原始数据形状: (80, 76)
+[2026-04-08 15:38:38] [SUCCESS] 002594 - 提取 560 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024), np.int32(2025)]
+[2026-04-08 15:38:39] [INFO] 600048 - 原始数据形状: (80, 85)
+[2026-04-08 15:38:39] [SUCCESS] 600048 - 提取 480 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024)]
+[2026-04-08 15:38:41] [INFO] 000002 - 原始数据形状: (80, 117)
+[2026-04-08 15:38:41] [SUCCESS] 000002 - 提取 556 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024), np.int32(2025)]
+[2026-04-08 15:38:42] [INFO] 601857 - 原始数据形状: (80, 92)
+[2026-04-08 15:38:42] [SUCCESS] 601857 - 提取 560 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024), np.int32(2025)]
+[2026-04-08 15:38:43] [INFO] 600050 - 原始数据形状: (80, 99)
+[2026-04-08 15:38:43] [SUCCESS] 600050 - 提取 553 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024), np.int32(2025)]
+[2026-04-08 15:38:43] [INFO] SYSTEM - 财务数据下载完成，共 10 只股票，536 条记录
+[2026-04-08 15:38:54] [FAILED] stock_600036 - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 15:38:55] [FAILED] stock_601166 - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 15:38:57] [FAILED] stock_600519 - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 15:38:58] [FAILED] stock_000858 - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 15:38:58] [FAILED] stock_600104 - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 15:38:59] [FAILED] stock_002594 - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 15:39:00] [FAILED] stock_600048 - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 15:39:01] [FAILED] stock_000002 - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 15:39:01] [FAILED] stock_601857 - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 15:39:02] [FAILED] stock_600050 - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 15:39:03] [SUCCESS] index_000300 - shape=(1070, 16)
+[2026-04-08 15:39:03] [SUCCESS] index_000905 - shape=(1070, 16)
+[2026-04-08 15:39:19] FAILED stock_600036 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 15:39:19] FAILED stock_601166 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 15:39:20] FAILED stock_600519 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 15:39:21] FAILED stock_000858 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 15:39:21] FAILED stock_600104 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 15:39:23] FAILED stock_002594 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 15:39:23] FAILED stock_600048 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 15:39:24] FAILED stock_000002 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 15:39:25] FAILED stock_601857 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 15:39:25] FAILED stock_600050 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 15:39:26] SUCCESS index_000300 shape=(1070, 16)
+[2026-04-08 15:39:27] SUCCESS index_000905 shape=(1070, 16)
+[2026-04-08 15:39:46] SUCCESS macro_cpi shape=(477, 5)
+[2026-04-08 15:39:47] SUCCESS macro_usd shape=(180, 6)
+[2026-04-08 15:39:49] [INFO] 600036 - 原始数据形状: (80, 102)
+[2026-04-08 15:39:49] [SUCCESS] 600036 - 提取 399 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024), np.int32(2025)]
+[2026-04-08 15:39:50] [INFO] 600519 - 原始数据形状: (80, 102)
+[2026-04-08 15:39:50] [SUCCESS] 600519 - 提取 468 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024)]
+[2026-04-08 15:39:51] [INFO] 000858 - 原始数据形状: (80, 110)
+[2026-04-08 15:39:52] [SUCCESS] 000858 - 提取 480 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024)]
+[2026-04-08 15:39:53] [INFO] 600104 - 原始数据形状: (80, 111)
+[2026-04-08 15:39:53] [SUCCESS] 600104 - 提取 556 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024), np.int32(2025)]
+[2026-04-08 15:39:54] [INFO] 002594 - 原始数据形状: (80, 76)
+[2026-04-08 15:39:54] [SUCCESS] 002594 - 提取 560 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024), np.int32(2025)]
+[2026-04-08 15:39:56] [INFO] 600048 - 原始数据形状: (80, 85)
+[2026-04-08 15:39:56] [SUCCESS] 600048 - 提取 480 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024)]
+[2026-04-08 15:39:58] [INFO] 000002 - 原始数据形状: (80, 117)
+[2026-04-08 15:39:58] [SUCCESS] 000002 - 提取 556 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024), np.int32(2025)]
+[2026-04-08 15:39:59] [INFO] 601857 - 原始数据形状: (80, 92)
+[2026-04-08 15:40:00] [SUCCESS] 601857 - 提取 560 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024), np.int32(2025)]
+[2026-04-08 15:40:01] [INFO] 600050 - 原始数据形状: (80, 99)
+[2026-04-08 15:40:01] [SUCCESS] 600050 - 提取 553 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024), np.int32(2025)]
+[2026-04-08 15:40:02] [INFO] 601166 - 原始数据形状: (80, 89)
+[2026-04-08 15:40:03] [SUCCESS] 601166 - 提取 399 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024), np.int32(2025)]
+[2026-04-08 15:40:03] [INFO] SYSTEM - 财务数据下载完成，共 10 只股票，134 条记录
+[2026-04-08 15:41:09] FAILED stock_600036 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 15:41:10] FAILED stock_601166 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 15:41:10] FAILED stock_600519 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 15:41:11] FAILED stock_000858 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 15:41:12] FAILED stock_600104 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 15:41:12] FAILED stock_002594 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 15:41:13] FAILED stock_600048 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 15:41:14] FAILED stock_000002 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 15:41:16] FAILED stock_601857 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 15:41:17] FAILED stock_600050 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 15:41:18] SUCCESS index_000300 shape=(1070, 16)
+[2026-04-08 15:41:18] SUCCESS index_000905 shape=(1070, 16)
+[2026-04-08 15:41:42] SUCCESS macro_cpi shape=(477, 5)
+[2026-04-08 15:41:44] SUCCESS macro_usd shape=(180, 6)
+[2026-04-08 15:41:45] [INFO] 600036 - 原始数据形状: (80, 102)
+[2026-04-08 15:41:45] [SUCCESS] 600036 - 提取 399 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024), np.int32(2025)]
+[2026-04-08 15:41:47] [INFO] 600519 - 原始数据形状: (80, 102)
+[2026-04-08 15:41:47] [SUCCESS] 600519 - 提取 468 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024)]
+[2026-04-08 15:41:49] [INFO] 000858 - 原始数据形状: (80, 110)
+[2026-04-08 15:41:49] [SUCCESS] 000858 - 提取 480 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024)]
+[2026-04-08 15:41:51] [INFO] 600104 - 原始数据形状: (80, 111)
+[2026-04-08 15:41:51] [SUCCESS] 600104 - 提取 556 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024), np.int32(2025)]
+[2026-04-08 15:41:52] [INFO] 002594 - 原始数据形状: (80, 76)
+[2026-04-08 15:41:52] [SUCCESS] 002594 - 提取 560 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024), np.int32(2025)]
+[2026-04-08 15:41:53] [INFO] 600048 - 原始数据形状: (80, 85)
+[2026-04-08 15:41:53] [SUCCESS] 600048 - 提取 480 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024)]
+[2026-04-08 15:41:55] [INFO] 000002 - 原始数据形状: (80, 117)
+[2026-04-08 15:41:55] [SUCCESS] 000002 - 提取 556 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024), np.int32(2025)]
+[2026-04-08 15:41:56] [INFO] 601857 - 原始数据形状: (80, 92)
+[2026-04-08 15:41:56] [SUCCESS] 601857 - 提取 560 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024), np.int32(2025)]
+[2026-04-08 15:41:58] [INFO] 600050 - 原始数据形状: (80, 99)
+[2026-04-08 15:41:59] [SUCCESS] 600050 - 提取 553 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024), np.int32(2025)]
+[2026-04-08 15:42:00] [INFO] 601166 - 原始数据形状: (80, 89)
+[2026-04-08 15:42:00] [SUCCESS] 601166 - 提取 399 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024), np.int32(2025)]
+[2026-04-08 15:42:00] [INFO] SYSTEM - 财务数据下载完成，共 10 只股票，134 条记录
+[2026-04-08 15:42:02] [FAILED] 600036 - 尝试 1/3 失败: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 15:42:04] [FAILED] 600036 - 尝试 2/3 失败: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 15:42:07] [FAILED] 600036 - 尝试 3/3 失败: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 15:42:09] [ERROR] 600036 - 股票下载失败，已跳过
+[2026-04-08 15:42:10] [FAILED] 601166 - 尝试 1/3 失败: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 15:42:12] [FAILED] 601166 - 尝试 2/3 失败: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 15:42:15] [FAILED] 601166 - 尝试 3/3 失败: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 15:42:17] [ERROR] 601166 - 股票下载失败，已跳过
+[2026-04-08 15:42:18] [FAILED] 600519 - 尝试 1/3 失败: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 15:42:21] [FAILED] 600519 - 尝试 2/3 失败: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 15:42:24] [FAILED] 600519 - 尝试 3/3 失败: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 15:42:26] [ERROR] 600519 - 股票下载失败，已跳过
+[2026-04-08 15:42:29] [FAILED] 000858 - 尝试 1/3 失败: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 16:06:28] SUCCESS stock_600036 shape=(1516, 15)
+[2026-04-08 16:06:29] SUCCESS stock_601166 shape=(1516, 15)
+[2026-04-08 16:06:30] SUCCESS stock_600519 shape=(1516, 15)
+[2026-04-08 16:06:31] SUCCESS stock_000858 shape=(1516, 15)
+[2026-04-08 16:06:32] SUCCESS stock_600104 shape=(1516, 15)
+[2026-04-08 16:06:33] SUCCESS stock_002594 shape=(1516, 15)
+[2026-04-08 16:06:34] FAILED stock_600048 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 16:06:35] FAILED stock_000002 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 16:06:36] FAILED stock_601857 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 16:06:37] FAILED stock_600050 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 16:06:39] SUCCESS index_000300 shape=(1070, 16)
+[2026-04-08 16:06:39] SUCCESS index_000905 shape=(1070, 16)
+[2026-04-08 16:07:01] SUCCESS macro_cpi shape=(477, 5)
+[2026-04-08 16:07:03] SUCCESS macro_usd shape=(180, 6)
+[2026-04-08 16:07:05] [INFO] 600036 - 原始数据形状: (80, 102)
+[2026-04-08 16:07:05] [SUCCESS] 600036 - 提取 399 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024), np.int32(2025)]
+[2026-04-08 16:07:07] [INFO] 600519 - 原始数据形状: (80, 102)
+[2026-04-08 16:07:07] [SUCCESS] 600519 - 提取 468 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024)]
+[2026-04-08 16:07:09] [INFO] 000858 - 原始数据形状: (80, 110)
+[2026-04-08 16:07:09] [SUCCESS] 000858 - 提取 480 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024)]
+[2026-04-08 16:07:10] [INFO] 600104 - 原始数据形状: (80, 111)
+[2026-04-08 16:07:10] [SUCCESS] 600104 - 提取 556 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024), np.int32(2025)]
+[2026-04-08 16:07:12] [INFO] 002594 - 原始数据形状: (80, 76)
+[2026-04-08 16:07:12] [SUCCESS] 002594 - 提取 560 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024), np.int32(2025)]
+[2026-04-08 16:07:13] [INFO] 600048 - 原始数据形状: (80, 85)
+[2026-04-08 16:07:13] [SUCCESS] 600048 - 提取 480 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024)]
+[2026-04-08 16:07:15] [INFO] 000002 - 原始数据形状: (80, 117)
+[2026-04-08 16:07:15] [SUCCESS] 000002 - 提取 556 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024), np.int32(2025)]
+[2026-04-08 16:07:16] [INFO] 601857 - 原始数据形状: (80, 92)
+[2026-04-08 16:07:16] [SUCCESS] 601857 - 提取 560 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024), np.int32(2025)]
+[2026-04-08 16:07:17] [INFO] 600050 - 原始数据形状: (80, 99)
+[2026-04-08 16:07:17] [SUCCESS] 600050 - 提取 553 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024), np.int32(2025)]
+[2026-04-08 16:07:19] [INFO] 601166 - 原始数据形状: (80, 89)
+[2026-04-08 16:07:19] [SUCCESS] 601166 - 提取 399 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024), np.int32(2025)]
+[2026-04-08 16:07:19] [INFO] SYSTEM - 财务数据下载完成，共 10 只股票，134 条记录
+[2026-04-08 16:10:07] FAILED stock_600036 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 16:10:09] FAILED stock_601166 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 16:10:11] FAILED stock_600519 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 16:10:12] FAILED stock_000858 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 16:10:13] FAILED stock_600104 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 16:10:14] FAILED stock_002594 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 16:10:15] FAILED stock_600048 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 16:10:16] FAILED stock_000002 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 16:10:17] FAILED stock_601857 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 16:10:18] FAILED stock_600050 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 16:10:19] SUCCESS index_000300 shape=(1070, 16)
+[2026-04-08 16:10:21] SUCCESS index_000905 shape=(1070, 16)
+[2026-04-08 16:10:46] SUCCESS macro_cpi shape=(477, 5)
+[2026-04-08 16:10:47] SUCCESS macro_usd shape=(180, 6)
+[2026-04-08 16:10:49] [INFO] 600036 - 原始数据形状: (80, 102)
+[2026-04-08 16:10:49] [SUCCESS] 600036 - 提取 399 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024), np.int32(2025)]
+[2026-04-08 16:10:51] [INFO] 600519 - 原始数据形状: (80, 102)
+[2026-04-08 16:10:51] [SUCCESS] 600519 - 提取 468 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024)]
+[2026-04-08 16:10:54] [INFO] 000858 - 原始数据形状: (80, 110)
+[2026-04-08 16:10:54] [SUCCESS] 000858 - 提取 480 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024)]
+[2026-04-08 16:10:56] [INFO] 600104 - 原始数据形状: (80, 111)
+[2026-04-08 16:10:56] [SUCCESS] 600104 - 提取 556 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024), np.int32(2025)]
+[2026-04-08 16:10:58] [INFO] 002594 - 原始数据形状: (80, 76)
+[2026-04-08 16:10:58] [SUCCESS] 002594 - 提取 560 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024), np.int32(2025)]
+[2026-04-08 16:11:00] [INFO] 600048 - 原始数据形状: (80, 85)
+[2026-04-08 16:11:00] [SUCCESS] 600048 - 提取 480 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024)]
+[2026-04-08 16:11:03] [INFO] 000002 - 原始数据形状: (80, 117)
+[2026-04-08 16:11:03] [SUCCESS] 000002 - 提取 556 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024), np.int32(2025)]
+[2026-04-08 16:11:05] [INFO] 601857 - 原始数据形状: (80, 92)
+[2026-04-08 16:11:05] [SUCCESS] 601857 - 提取 560 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024), np.int32(2025)]
+[2026-04-08 16:11:07] [INFO] 600050 - 原始数据形状: (80, 99)
+[2026-04-08 16:11:07] [SUCCESS] 600050 - 提取 553 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024), np.int32(2025)]
+[2026-04-08 16:11:09] [INFO] 601166 - 原始数据形状: (80, 89)
+[2026-04-08 16:11:09] [SUCCESS] 601166 - 提取 399 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024), np.int32(2025)]
+[2026-04-08 16:11:09] [INFO] SYSTEM - 财务数据下载完成，共 10 只股票，134 条记录
+[2026-04-08 16:20:23] FAILED stock_600036 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 16:20:24] FAILED stock_601166 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 16:20:25] FAILED stock_600519 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 16:20:27] FAILED stock_000858 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 16:20:28] FAILED stock_600104 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 16:20:29] FAILED stock_002594 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 16:20:30] FAILED stock_600048 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 16:20:32] FAILED stock_000002 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 16:20:33] FAILED stock_601857 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 16:20:34] FAILED stock_600050 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 16:20:35] SUCCESS index_000300 shape=(1070, 16)
+[2026-04-08 16:20:37] SUCCESS index_000905 shape=(1070, 16)
+[2026-04-08 16:21:03] [INFO] 600036 - 原始数据形状: (80, 102)
+[2026-04-08 16:21:03] [WARNING] 600036 - 未找到指标 roe
+[2026-04-08 16:21:03] [WARNING] 600036 - 未找到指标 net_profit_margin
+[2026-04-08 16:21:03] [SUCCESS] 600036 - 提取 560 条年报记录
+[2026-04-08 16:21:05] [INFO] 600519 - 原始数据形状: (80, 102)
+[2026-04-08 16:21:05] [WARNING] 600519 - 未找到指标 roe
+[2026-04-08 16:21:05] [WARNING] 600519 - 未找到指标 net_profit_margin
+[2026-04-08 16:21:05] [SUCCESS] 600519 - 提取 480 条年报记录
+[2026-04-08 16:21:07] [INFO] 000858 - 原始数据形状: (80, 110)
+[2026-04-08 16:21:07] [WARNING] 000858 - 未找到指标 roe
+[2026-04-08 16:21:07] [WARNING] 000858 - 未找到指标 net_profit_margin
+[2026-04-08 16:21:07] [SUCCESS] 000858 - 提取 480 条年报记录
+[2026-04-08 16:21:08] [INFO] 600104 - 原始数据形状: (80, 111)
+[2026-04-08 16:21:08] [WARNING] 600104 - 未找到指标 roe
+[2026-04-08 16:21:08] [WARNING] 600104 - 未找到指标 net_profit_margin
+[2026-04-08 16:21:08] [SUCCESS] 600104 - 提取 560 条年报记录
+[2026-04-08 16:21:10] [INFO] 002594 - 原始数据形状: (80, 76)
+[2026-04-08 16:21:10] [WARNING] 002594 - 未找到指标 roe
+[2026-04-08 16:21:10] [WARNING] 002594 - 未找到指标 net_profit_margin
+[2026-04-08 16:21:10] [SUCCESS] 002594 - 提取 560 条年报记录
+[2026-04-08 16:21:12] [INFO] 600048 - 原始数据形状: (80, 85)
+[2026-04-08 16:21:12] [WARNING] 600048 - 未找到指标 roe
+[2026-04-08 16:21:12] [WARNING] 600048 - 未找到指标 net_profit_margin
+[2026-04-08 16:21:12] [SUCCESS] 600048 - 提取 480 条年报记录
+[2026-04-08 16:21:14] [INFO] 000002 - 原始数据形状: (80, 117)
+[2026-04-08 16:21:14] [WARNING] 000002 - 未找到指标 roe
+[2026-04-08 16:21:14] [WARNING] 000002 - 未找到指标 net_profit_margin
+[2026-04-08 16:21:14] [SUCCESS] 000002 - 提取 560 条年报记录
+[2026-04-08 16:21:16] [INFO] 601857 - 原始数据形状: (80, 92)
+[2026-04-08 16:21:16] [WARNING] 601857 - 未找到指标 roe
+[2026-04-08 16:21:16] [WARNING] 601857 - 未找到指标 net_profit_margin
+[2026-04-08 16:21:16] [SUCCESS] 601857 - 提取 560 条年报记录
+[2026-04-08 16:21:18] [INFO] 600050 - 原始数据形状: (80, 99)
+[2026-04-08 16:21:18] [WARNING] 600050 - 未找到指标 roe
+[2026-04-08 16:21:18] [WARNING] 600050 - 未找到指标 net_profit_margin
+[2026-04-08 16:21:18] [SUCCESS] 600050 - 提取 560 条年报记录
+[2026-04-08 16:21:19] [INFO] 601166 - 原始数据形状: (80, 89)
+[2026-04-08 16:21:19] [WARNING] 601166 - 未找到指标 roe
+[2026-04-08 16:21:19] [WARNING] 601166 - 未找到指标 net_profit_margin
+[2026-04-08 16:21:19] [SUCCESS] 601166 - 提取 560 条年报记录
+[2026-04-08 16:21:19] [ERROR] SYSTEM - 未获取到任何财务数据
+[2026-04-08 16:24:52] [INFO] 600036 - 原始数据形状: (80, 102)
+[2026-04-08 16:24:52] [SUCCESS] 600036 - 提取 5 条年报记录
+[2026-04-08 16:24:54] [INFO] 601166 - 原始数据形状: (80, 89)
+[2026-04-08 16:24:54] [SUCCESS] 601166 - 提取 5 条年报记录
+[2026-04-08 16:24:56] [INFO] 600519 - 原始数据形状: (80, 102)
+[2026-04-08 16:24:56] [SUCCESS] 600519 - 提取 5 条年报记录
+[2026-04-08 16:24:58] [INFO] 000858 - 原始数据形状: (80, 110)
+[2026-04-08 16:24:58] [SUCCESS] 000858 - 提取 5 条年报记录
+[2026-04-08 16:25:00] [INFO] 600104 - 原始数据形状: (80, 111)
+[2026-04-08 16:25:00] [SUCCESS] 600104 - 提取 5 条年报记录
+[2026-04-08 16:25:02] [INFO] 002594 - 原始数据形状: (80, 76)
+[2026-04-08 16:25:02] [SUCCESS] 002594 - 提取 5 条年报记录
+[2026-04-08 16:25:03] [INFO] 600048 - 原始数据形状: (80, 85)
+[2026-04-08 16:25:03] [SUCCESS] 600048 - 提取 5 条年报记录
+[2026-04-08 16:25:05] [INFO] 000002 - 原始数据形状: (80, 117)
+[2026-04-08 16:25:06] [SUCCESS] 000002 - 提取 5 条年报记录
+[2026-04-08 16:25:07] [INFO] 601857 - 原始数据形状: (80, 92)
+[2026-04-08 16:25:07] [SUCCESS] 601857 - 提取 5 条年报记录
+[2026-04-08 16:25:09] [INFO] 600050 - 原始数据形状: (80, 99)
+[2026-04-08 16:25:09] [SUCCESS] 600050 - 提取 5 条年报记录
+[2026-04-08 16:25:09] [INFO] SYSTEM - 财务数据下载完成，共 3 只股票，4 条记录
+[2026-04-08 16:41:31] [INFO] 600036 - 原始数据形状: (80, 102)
+[2026-04-08 16:41:31] [SUCCESS] 600036 - 提取 5 条年报记录
+[2026-04-08 16:41:32] [INFO] 601166 - 原始数据形状: (80, 89)
+[2026-04-08 16:41:32] [SUCCESS] 601166 - 提取 5 条年报记录
+[2026-04-08 16:41:34] [INFO] 600519 - 原始数据形状: (80, 102)
+[2026-04-08 16:41:34] [SUCCESS] 600519 - 提取 5 条年报记录
+[2026-04-08 16:41:36] [INFO] 000858 - 原始数据形状: (80, 110)
+[2026-04-08 16:41:36] [SUCCESS] 000858 - 提取 5 条年报记录
+[2026-04-08 16:41:38] [INFO] 600104 - 原始数据形状: (80, 111)
+[2026-04-08 16:41:38] [SUCCESS] 600104 - 提取 5 条年报记录
+[2026-04-08 16:41:40] [INFO] 002594 - 原始数据形状: (80, 76)
+[2026-04-08 16:41:40] [SUCCESS] 002594 - 提取 5 条年报记录
+[2026-04-08 16:41:41] [INFO] 600048 - 原始数据形状: (80, 85)
+[2026-04-08 16:41:41] [SUCCESS] 600048 - 提取 5 条年报记录
+[2026-04-08 16:41:44] [INFO] 000002 - 原始数据形状: (80, 117)
+[2026-04-08 16:41:44] [SUCCESS] 000002 - 提取 5 条年报记录
+[2026-04-08 16:41:46] [INFO] 601857 - 原始数据形状: (80, 92)
+[2026-04-08 16:41:46] [SUCCESS] 601857 - 提取 5 条年报记录
+[2026-04-08 16:41:48] [INFO] 600050 - 原始数据形状: (80, 99)
+[2026-04-08 16:41:48] [SUCCESS] 600050 - 提取 5 条年报记录
+[2026-04-08 16:41:48] [INFO] SYSTEM - 财务数据下载完成，共 3 只股票，4 条记录
+[2026-04-08 17:41:39] [INFO] 600036 - 原始数据形状: (80, 102)
+[2026-04-08 17:41:39] [SUCCESS] 600036 - 提取 0 条年报记录
+[2026-04-08 17:41:40] [INFO] 601166 - 原始数据形状: (80, 89)
+[2026-04-08 17:41:40] [SUCCESS] 601166 - 提取 2 条年报记录
+[2026-04-08 17:41:40] [INFO] 600519 - 原始数据形状: (80, 102)
+[2026-04-08 17:41:41] [SUCCESS] 600519 - 提取 0 条年报记录
+[2026-04-08 17:41:41] [INFO] 000858 - 原始数据形状: (80, 110)
+[2026-04-08 17:41:42] [SUCCESS] 000858 - 提取 0 条年报记录
+[2026-04-08 17:41:43] [INFO] 600104 - 原始数据形状: (80, 111)
+[2026-04-08 17:41:43] [SUCCESS] 600104 - 提取 0 条年报记录
+[2026-04-08 17:41:43] [INFO] 002594 - 原始数据形状: (80, 76)
+[2026-04-08 17:41:43] [SUCCESS] 002594 - 提取 1 条年报记录
+[2026-04-08 17:41:44] [INFO] 600048 - 原始数据形状: (80, 85)
+[2026-04-08 17:41:44] [SUCCESS] 600048 - 提取 0 条年报记录
+[2026-04-08 17:41:45] [INFO] 000002 - 原始数据形状: (80, 117)
+[2026-04-08 17:41:45] [SUCCESS] 000002 - 提取 0 条年报记录
+[2026-04-08 17:41:46] [INFO] 601857 - 原始数据形状: (80, 92)
+[2026-04-08 17:41:46] [SUCCESS] 601857 - 提取 0 条年报记录
+[2026-04-08 17:41:47] [INFO] 600050 - 原始数据形状: (80, 99)
+[2026-04-08 17:41:47] [SUCCESS] 600050 - 提取 0 条年报记录
+[2026-04-08 17:41:47] [INFO] SYSTEM - 财务数据下载完成，共 2 只股票，3 条记录
+[2026-04-08 17:43:33] [FAILED] 600036 - '周期'
+[2026-04-08 17:43:34] [FAILED] 601166 - 指标表为空
+[2026-04-08 17:43:34] [FAILED] 600519 - 指标表为空
+[2026-04-08 17:43:35] [FAILED] 000858 - 指标表为空
+[2026-04-08 17:43:35] [FAILED] 600104 - 指标表为空
+[2026-04-08 17:43:36] [FAILED] 002594 - 指标表为空
+[2026-04-08 17:43:36] [FAILED] 600048 - 指标表为空
+[2026-04-08 17:43:36] [FAILED] 000002 - 指标表为空
+[2026-04-08 17:43:37] [FAILED] 601857 - 指标表为空
+[2026-04-08 17:43:37] [FAILED] 600050 - 指标表为空
+[2026-04-08 17:43:37] [ERROR] SYSTEM - 未获取到任何指标数据
+[2026-04-08 17:44:49] [FAILED] 600036 - 'NoneType' object is not subscriptable
+[2026-04-08 17:44:49] [FAILED] 601166 - 'NoneType' object is not subscriptable
+[2026-04-08 17:44:50] [FAILED] 600519 - 'NoneType' object is not subscriptable
+[2026-04-08 17:44:50] [FAILED] 000858 - 'NoneType' object is not subscriptable
+[2026-04-08 17:44:51] [FAILED] 600104 - 'NoneType' object is not subscriptable
+[2026-04-08 17:44:52] [FAILED] 002594 - 'NoneType' object is not subscriptable
+[2026-04-08 17:44:53] [FAILED] 600048 - 'NoneType' object is not subscriptable
+[2026-04-08 17:44:53] [FAILED] 000002 - 'NoneType' object is not subscriptable
+[2026-04-08 17:44:54] [FAILED] 601857 - 'NoneType' object is not subscriptable
+[2026-04-08 17:44:54] [FAILED] 600050 - 'NoneType' object is not subscriptable
+[2026-04-08 17:44:54] [ERROR] SYSTEM - 未获取到任何计算结果
+[2026-04-08 17:48:47] SUCCESS stock_600036 shape=(1516, 15)
+[2026-04-08 17:48:48] FAILED stock_601166 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 17:48:48] FAILED stock_600519 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 17:48:49] FAILED stock_000858 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 17:48:49] FAILED stock_600104 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 17:48:50] FAILED stock_002594 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 17:48:51] FAILED stock_600048 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 17:48:53] FAILED stock_000002 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 17:48:55] FAILED stock_601857 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 17:48:56] FAILED stock_600050 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 17:48:56] SUCCESS index_000300 shape=(1070, 16)
+[2026-04-08 17:48:57] SUCCESS index_000905 shape=(1070, 16)
+[2026-04-08 17:49:09] SUCCESS macro_cpi shape=(477, 5)
+[2026-04-08 17:49:10] SUCCESS macro_usd shape=(180, 6)
+[2026-04-08 17:49:11] [INFO] 600036 - 原始数据形状: (80, 102)
+[2026-04-08 17:49:11] [SUCCESS] 600036 - 提取 399 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024), np.int32(2025)]
+[2026-04-08 17:49:12] [INFO] 600519 - 原始数据形状: (80, 102)
+[2026-04-08 17:49:12] [SUCCESS] 600519 - 提取 468 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024)]
+[2026-04-08 17:49:13] [INFO] 000858 - 原始数据形状: (80, 110)
+[2026-04-08 17:49:13] [SUCCESS] 000858 - 提取 480 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024)]
+[2026-04-08 17:49:14] [INFO] 600104 - 原始数据形状: (80, 111)
+[2026-04-08 17:49:14] [SUCCESS] 600104 - 提取 556 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024), np.int32(2025)]
+[2026-04-08 17:49:15] [INFO] 002594 - 原始数据形状: (80, 76)
+[2026-04-08 17:49:15] [SUCCESS] 002594 - 提取 560 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024), np.int32(2025)]
+[2026-04-08 17:49:16] [INFO] 600048 - 原始数据形状: (80, 85)
+[2026-04-08 17:49:16] [SUCCESS] 600048 - 提取 480 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024)]
+[2026-04-08 17:49:18] [INFO] 000002 - 原始数据形状: (80, 117)
+[2026-04-08 17:49:18] [SUCCESS] 000002 - 提取 556 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024), np.int32(2025)]
+[2026-04-08 17:49:19] [INFO] 601857 - 原始数据形状: (80, 92)
+[2026-04-08 17:49:19] [SUCCESS] 601857 - 提取 560 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024), np.int32(2025)]
+[2026-04-08 17:49:20] [INFO] 600050 - 原始数据形状: (80, 99)
+[2026-04-08 17:49:20] [SUCCESS] 600050 - 提取 553 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024), np.int32(2025)]
+[2026-04-08 17:49:21] [INFO] 601166 - 原始数据形状: (80, 89)
+[2026-04-08 17:49:21] [SUCCESS] 601166 - 提取 399 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024), np.int32(2025)]
+[2026-04-08 17:49:21] [INFO] SYSTEM - 财务数据下载完成，共 10 只股票，134 条记录
+[2026-04-08 18:16:13] FAILED stock_600036 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 18:16:13] FAILED stock_601166 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 18:16:14] FAILED stock_600519 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 18:16:14] FAILED stock_000858 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 18:16:14] FAILED stock_600104 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 18:16:15] FAILED stock_002594 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 18:16:15] FAILED stock_600048 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 18:16:16] FAILED stock_000002 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 18:16:16] FAILED stock_601857 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 18:16:16] FAILED stock_600050 ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 18:16:17] SUCCESS index_000300 shape=(1070, 16)
+[2026-04-08 18:16:18] SUCCESS index_000905 shape=(1070, 16)
+[2026-04-08 18:16:28] SUCCESS macro_cpi shape=(477, 5)
+[2026-04-08 18:16:30] SUCCESS macro_usd shape=(180, 6)
+[2026-04-08 18:16:31] [INFO] 600036 - 原始数据形状: (80, 102)
+[2026-04-08 18:16:31] [SUCCESS] 600036 - 提取 399 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024), np.int32(2025)]
+[2026-04-08 18:16:32] [INFO] 600519 - 原始数据形状: (80, 102)
+[2026-04-08 18:16:32] [SUCCESS] 600519 - 提取 468 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024)]
+[2026-04-08 18:16:33] [INFO] 000858 - 原始数据形状: (80, 110)
+[2026-04-08 18:16:33] [SUCCESS] 000858 - 提取 480 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024)]
+[2026-04-08 18:16:34] [INFO] 600104 - 原始数据形状: (80, 111)
+[2026-04-08 18:16:34] [SUCCESS] 600104 - 提取 556 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024), np.int32(2025)]
+[2026-04-08 18:16:35] [INFO] 002594 - 原始数据形状: (80, 76)
+[2026-04-08 18:16:35] [SUCCESS] 002594 - 提取 560 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024), np.int32(2025)]
+[2026-04-08 18:16:36] [INFO] 600048 - 原始数据形状: (80, 85)
+[2026-04-08 18:16:36] [SUCCESS] 600048 - 提取 480 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024)]
+[2026-04-08 18:16:37] [INFO] 000002 - 原始数据形状: (80, 117)
+[2026-04-08 18:16:37] [SUCCESS] 000002 - 提取 556 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024), np.int32(2025)]
+[2026-04-08 18:16:38] [INFO] 601857 - 原始数据形状: (80, 92)
+[2026-04-08 18:16:38] [SUCCESS] 601857 - 提取 560 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024), np.int32(2025)]
+[2026-04-08 18:16:39] [INFO] 600050 - 原始数据形状: (80, 99)
+[2026-04-08 18:16:39] [SUCCESS] 600050 - 提取 553 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024), np.int32(2025)]
+[2026-04-08 18:16:40] [INFO] 601166 - 原始数据形状: (80, 89)
+[2026-04-08 18:16:40] [SUCCESS] 601166 - 提取 399 条记录，年份 [np.int32(2019), np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024), np.int32(2025)]
+[2026-04-08 18:16:40] [INFO] SYSTEM - 财务数据下载完成，共 10 只股票，134 条记录
+[2026-04-08 18:18:36] [ERROR] sh600036 - 重试 1 失败: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 18:18:39] [ERROR] sh600036 - 重试 2 失败: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 18:18:41] [ERROR] sh600036 - 重试 3 失败: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 18:18:43] [FAILED] 600036 - 未获取到行情数据
+[2026-04-08 18:18:44] [ERROR] sh601166 - 重试 1 失败: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 18:18:46] [ERROR] sh601166 - 重试 2 失败: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 18:18:48] [ERROR] sh601166 - 重试 3 失败: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 18:18:50] [FAILED] 601166 - 未获取到行情数据
+[2026-04-08 18:18:51] [ERROR] sh600519 - 重试 1 失败: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 18:18:53] [ERROR] sh600519 - 重试 2 失败: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 18:18:56] [ERROR] sh600519 - 重试 3 失败: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 18:18:58] [FAILED] 600519 - 未获取到行情数据
+[2026-04-08 18:18:58] [ERROR] sz000858 - 重试 1 失败: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 18:19:01] [ERROR] sz000858 - 重试 2 失败: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 18:19:03] [ERROR] sz000858 - 重试 3 失败: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 18:19:05] [FAILED] 000858 - 未获取到行情数据
+[2026-04-08 18:19:06] [ERROR] sh600104 - 重试 1 失败: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 18:19:08] [ERROR] sh600104 - 重试 2 失败: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 18:19:11] [ERROR] sh600104 - 重试 3 失败: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 18:19:13] [FAILED] 600104 - 未获取到行情数据
+[2026-04-08 18:19:13] [ERROR] sz002594 - 重试 1 失败: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 18:19:15] [ERROR] sz002594 - 重试 2 失败: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 18:19:18] [ERROR] sz002594 - 重试 3 失败: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 18:19:20] [FAILED] 002594 - 未获取到行情数据
+[2026-04-08 18:19:20] [ERROR] sh600048 - 重试 1 失败: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 18:19:23] [ERROR] sh600048 - 重试 2 失败: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 18:19:25] [ERROR] sh600048 - 重试 3 失败: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 18:19:27] [FAILED] 600048 - 未获取到行情数据
+[2026-04-08 18:19:28] [ERROR] sz000002 - 重试 1 失败: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 18:19:30] [ERROR] sz000002 - 重试 2 失败: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 18:19:33] [ERROR] sz000002 - 重试 3 失败: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 18:19:35] [FAILED] 000002 - 未获取到行情数据
+[2026-04-08 18:19:35] [ERROR] sh601857 - 重试 1 失败: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 18:19:38] [ERROR] sh601857 - 重试 2 失败: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 18:19:40] [ERROR] sh601857 - 重试 3 失败: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 18:19:42] [FAILED] 601857 - 未获取到行情数据
+[2026-04-08 18:19:43] [ERROR] sh600050 - 重试 1 失败: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 18:19:45] [ERROR] sh600050 - 重试 2 失败: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 18:19:48] [ERROR] sh600050 - 重试 3 失败: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 18:19:50] [FAILED] 600050 - 未获取到行情数据
+[2026-04-08 18:19:50] [FAILED] 000300 - 指数下载失败: index_zh_a_hist() got an unexpected keyword argument 'adjust'
+[2026-04-08 18:19:50] [FAILED] 000905 - 指数下载失败: index_zh_a_hist() got an unexpected keyword argument 'adjust'
+[2026-04-08 18:21:02] [SUCCESS] SYSTEM - Baostock 登录成功
+[2026-04-08 18:21:02] [FAILED] 600036 - 股票代码应为9位，请检查。格式示例：sh.600000。
+[2026-04-08 18:21:02] [FAILED] 601166 - 股票代码应为9位，请检查。格式示例：sh.600000。
+[2026-04-08 18:21:02] [FAILED] 600519 - 股票代码应为9位，请检查。格式示例：sh.600000。
+[2026-04-08 18:21:02] [FAILED] 000858 - 股票代码应为9位，请检查。格式示例：sh.600000。
+[2026-04-08 18:21:02] [FAILED] 600104 - 股票代码应为9位，请检查。格式示例：sh.600000。
+[2026-04-08 18:21:02] [FAILED] 002594 - 股票代码应为9位，请检查。格式示例：sh.600000。
+[2026-04-08 18:21:02] [FAILED] 600048 - 股票代码应为9位，请检查。格式示例：sh.600000。
+[2026-04-08 18:21:02] [FAILED] 000002 - 股票代码应为9位，请检查。格式示例：sh.600000。
+[2026-04-08 18:21:02] [FAILED] 601857 - 股票代码应为9位，请检查。格式示例：sh.600000。
+[2026-04-08 18:21:02] [FAILED] 600050 - 股票代码应为9位，请检查。格式示例：sh.600000。
+[2026-04-08 18:21:02] [FAILED] 000300 - 指数下载异常: index_zh_a_hist() got an unexpected keyword argument 'adjust'
+[2026-04-08 18:21:02] [FAILED] 000905 - 指数下载异常: index_zh_a_hist() got an unexpected keyword argument 'adjust'
+[2026-04-08 18:21:12] [SUCCESS] macro_cpi - CPI下载完成, shape=(477, 5)
+[2026-04-08 18:21:13] [SUCCESS] macro_usd - 美元汇率下载完成, shape=(180, 6)
+[2026-04-08 18:21:13] [FAILED] 600036 - 财务数据下载异常: module 'baostock' has no attribute 'query_stock_financial_data'
+[2026-04-08 18:21:13] [FAILED] 601166 - 财务数据下载异常: module 'baostock' has no attribute 'query_stock_financial_data'
+[2026-04-08 18:21:13] [FAILED] 600519 - 财务数据下载异常: module 'baostock' has no attribute 'query_stock_financial_data'
+[2026-04-08 18:21:13] [FAILED] 000858 - 财务数据下载异常: module 'baostock' has no attribute 'query_stock_financial_data'
+[2026-04-08 18:21:13] [FAILED] 600104 - 财务数据下载异常: module 'baostock' has no attribute 'query_stock_financial_data'
+[2026-04-08 18:21:13] [FAILED] 002594 - 财务数据下载异常: module 'baostock' has no attribute 'query_stock_financial_data'
+[2026-04-08 18:21:13] [FAILED] 600048 - 财务数据下载异常: module 'baostock' has no attribute 'query_stock_financial_data'
+[2026-04-08 18:21:13] [FAILED] 000002 - 财务数据下载异常: module 'baostock' has no attribute 'query_stock_financial_data'
+[2026-04-08 18:21:13] [FAILED] 601857 - 财务数据下载异常: module 'baostock' has no attribute 'query_stock_financial_data'
+[2026-04-08 18:21:13] [FAILED] 600050 - 财务数据下载异常: module 'baostock' has no attribute 'query_stock_financial_data'
+[2026-04-08 18:21:13] [FAILED] SYSTEM - 未获取到任何财务数据
+[2026-04-08 18:21:14] [INFO] SYSTEM - Baostock 登出完成
+[2026-04-08 18:22:31] [FAILED] 600036 - 股票行情下载异常: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 18:22:33] [FAILED] 601166 - 股票行情下载异常: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 18:22:33] [FAILED] 600519 - 股票行情下载异常: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 18:22:34] [FAILED] 000858 - 股票行情下载异常: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 18:22:34] [FAILED] 600104 - 股票行情下载异常: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 18:22:34] [FAILED] 002594 - 股票行情下载异常: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 18:22:35] [FAILED] 600048 - 股票行情下载异常: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 18:22:35] [FAILED] 000002 - 股票行情下载异常: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 18:22:36] [FAILED] 601857 - 股票行情下载异常: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 18:22:36] [FAILED] 600050 - 股票行情下载异常: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 18:22:42] [FAILED] 000300 - 指数下载异常: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 18:22:49] [FAILED] 000905 - 指数下载异常: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-04-08 18:23:02] [SUCCESS] macro_cpi - CPI下载完成, shape=(477, 5)
+[2026-04-08 18:23:02] [SUCCESS] macro_usd - 美元汇率下载完成, shape=(180, 6)
+[2026-04-08 18:23:19] [FAILED] 600036 - 财务数据下载异常: '报告日期'
+[2026-04-08 18:23:20] [FAILED] 601166 - 未获取到财务指标数据
+[2026-04-08 18:23:20] [FAILED] 600519 - 未获取到财务指标数据
+[2026-04-08 18:23:21] [FAILED] 000858 - 未获取到财务指标数据
+[2026-04-08 18:23:21] [FAILED] 600104 - 未获取到财务指标数据
+[2026-04-08 18:23:22] [FAILED] 002594 - 未获取到财务指标数据
+[2026-04-08 18:23:22] [FAILED] 600048 - 未获取到财务指标数据
+[2026-04-08 18:23:23] [FAILED] 000002 - 未获取到财务指标数据
+[2026-04-08 18:23:23] [FAILED] 601857 - 未获取到财务指标数据
+[2026-04-08 18:23:24] [FAILED] 600050 - 未获取到财务指标数据
+[2026-04-08 18:23:24] [FAILED] SYSTEM - 未获取到任何财务数据
+[2026-04-08 18:24:33] [SUCCESS] SYSTEM - Baostock 登录成功
+[2026-04-08 18:24:37] [SUCCESS] 600036 - 股票行情下载完成, shape=(1516, 10)
+[2026-04-08 18:24:41] [SUCCESS] 601166 - 股票行情下载完成, shape=(1516, 10)
+[2026-04-08 18:24:46] [SUCCESS] 600519 - 股票行情下载完成, shape=(1516, 10)
+[2026-04-08 18:24:50] [SUCCESS] 000858 - 股票行情下载完成, shape=(1516, 10)
+[2026-04-08 18:24:52] [SUCCESS] 600104 - 股票行情下载完成, shape=(1516, 10)
+[2026-04-08 18:24:59] [SUCCESS] 002594 - 股票行情下载完成, shape=(1516, 10)
+[2026-04-08 18:25:01] [SUCCESS] 600048 - 股票行情下载完成, shape=(1516, 10)
+[2026-04-08 18:25:04] [SUCCESS] 000002 - 股票行情下载完成, shape=(1516, 10)
+[2026-04-08 18:25:08] [SUCCESS] 601857 - 股票行情下载完成, shape=(1516, 10)
+[2026-04-08 18:25:11] [SUCCESS] 600050 - 股票行情下载完成, shape=(1516, 10)
+[2026-04-08 18:25:11] [SUCCESS] 000300 - 指数下载完成, shape=(0, 8)
+[2026-04-08 18:25:15] [SUCCESS] 000905 - 指数下载完成, shape=(1516, 8)
+[2026-04-08 18:25:15] [FAILED] macro_cpi - module 'akshare' has no attribute 'macro_china_cpi_m'
+[2026-04-08 18:25:16] [SUCCESS] macro_usd - 美元汇率下载完成, shape=(180, 6)
+[2026-04-08 18:25:17] [FAILED] 600036 - 财务数据下载异常: 'bool' object has no attribute 'get_row_data'
+[2026-04-08 18:25:18] [FAILED] 601166 - 财务数据下载异常: 'bool' object has no attribute 'get_row_data'
+[2026-04-08 18:25:18] [FAILED] 600519 - 财务数据下载异常: 'bool' object has no attribute 'get_row_data'
+[2026-04-08 18:25:19] [FAILED] 000858 - 财务数据下载异常: 'bool' object has no attribute 'get_row_data'
+[2026-04-08 18:25:19] [FAILED] 600104 - 财务数据下载异常: 'bool' object has no attribute 'get_row_data'
+[2026-04-08 18:25:20] [FAILED] 002594 - 财务数据下载异常: 'bool' object has no attribute 'get_row_data'
+[2026-04-08 18:25:21] [FAILED] 600048 - 财务数据下载异常: 'bool' object has no attribute 'get_row_data'
+[2026-04-08 18:25:23] [FAILED] 000002 - 财务数据下载异常: 'bool' object has no attribute 'get_row_data'
+[2026-04-08 18:25:27] [FAILED] 601857 - 财务数据下载异常: 'bool' object has no attribute 'get_row_data'
+[2026-04-08 18:25:28] [FAILED] 600050 - 财务数据下载异常: 'bool' object has no attribute 'get_row_data'
+[2026-04-08 18:25:28] [INFO] SYSTEM - Baostock 登出完成
+[2026-04-08 18:29:18] [SUCCESS] SYSTEM - Baostock 登录成功
+[2026-04-08 18:29:23] [SUCCESS] 600036 - 下载完成, 共 1516 行
+[2026-04-08 18:29:26] [SUCCESS] 601166 - 下载完成, 共 1516 行
+[2026-04-08 18:29:29] [SUCCESS] 600519 - 下载完成, 共 1516 行
+[2026-04-08 18:29:32] [SUCCESS] 000858 - 下载完成, 共 1516 行
+[2026-04-08 18:29:39] [SUCCESS] 600104 - 下载完成, 共 1516 行
+[2026-04-08 18:29:40] [SUCCESS] 002594 - 下载完成, 共 1516 行
+[2026-04-08 18:29:44] [SUCCESS] 600048 - 下载完成, 共 1516 行
+[2026-04-08 18:29:46] [SUCCESS] 000002 - 下载完成, 共 1516 行
+[2026-04-08 18:29:49] [SUCCESS] 601857 - 下载完成, 共 1516 行
+[2026-04-08 18:30:00] [SUCCESS] 600050 - 下载完成, 共 1516 行
+[2026-04-08 18:30:01] [INFO] SYSTEM - Baostock 登出完成
+[2026-04-08 18:30:49] [SUCCESS] SYSTEM - Baostock 登录成功
+[2026-04-08 18:30:52] [SUCCESS] sh.000300 - 沪深 300 下载完成, 共 1516 行
+[2026-04-08 18:30:58] [SUCCESS] sh.000905 - 中证 500 下载完成, 共 1516 行
+[2026-04-08 18:30:59] [INFO] SYSTEM - Baostock 登出完成
+[2026-04-08 18:31:39] [SUCCESS] SYSTEM - Baostock 登录成功
+[2026-04-08 18:31:42] [SUCCESS] sh.000300 - 沪深 300 下载完成, 共 1516 行
+[2026-04-08 18:31:47] [SUCCESS] sh.000905 - 中证 500 下载完成, 共 1516 行
+[2026-04-08 18:31:49] [INFO] SYSTEM - Baostock 登出完成
+[2026-04-08 18:33:43] [SUCCESS] SYSTEM - Baostock 登录成功
+[2026-04-08 18:33:46] [SUCCESS] 600036 - 招商银行 下载成功, 共 1516 行
+[2026-04-08 18:33:48] [SUCCESS] 601166 - 兴业银行 下载成功, 共 1516 行
+[2026-04-08 18:33:51] [SUCCESS] 600519 - 贵州茅台 下载成功, 共 1516 行
+[2026-04-08 18:33:55] [SUCCESS] 000858 - 五粮液 下载成功, 共 1516 行
+[2026-04-08 18:34:00] [SUCCESS] 600104 - 上汽集团 下载成功, 共 1516 行
+[2026-04-08 18:34:05] [SUCCESS] 002594 - 比亚迪 下载成功, 共 1516 行
+[2026-04-08 18:34:24] [SUCCESS] 600048 - 保利发展 下载成功, 共 1516 行
+[2026-04-08 18:34:27] [SUCCESS] 000002 - 万科A 下载成功, 共 1516 行
+[2026-04-08 18:34:36] [SUCCESS] 601857 - 中国石油 下载成功, 共 1516 行
+[2026-04-08 18:34:39] [SUCCESS] 600050 - 中国联通 下载成功, 共 1516 行
+[2026-04-08 18:34:40] [INFO] SYSTEM - Baostock 登出完成
+[2026-04-08 18:34:52] [SUCCESS] SYSTEM - Baostock 登录成功
+[2026-04-08 18:34:55] [SUCCESS] sh.000300 - 沪深 300 下载成功, 共 1516 行
+[2026-04-08 18:35:00] [SUCCESS] sh.000905 - 中证 500 下载成功, 共 1516 行
+[2026-04-08 18:35:01] [INFO] SYSTEM - Baostock 登出完成
+[2026-04-08 18:35:43] [SUCCESS] CPI - CPI 下载完成, 共 477 行
+[2026-04-08 18:35:44] [SUCCESS] USD - 美元汇率下载完成, 共 180 行
+[2026-04-08 18:37:21] [SUCCESS] SYSTEM - Baostock 登录成功
+[2026-04-08 18:37:21] [FAILED] 600036 - 招商银行 财务数据下载失败: module 'baostock' has no attribute 'query_stock_financial_data'
+[2026-04-08 18:37:21] [FAILED] 601166 - 兴业银行 财务数据下载失败: module 'baostock' has no attribute 'query_stock_financial_data'
+[2026-04-08 18:37:21] [FAILED] 600519 - 贵州茅台 财务数据下载失败: module 'baostock' has no attribute 'query_stock_financial_data'
+[2026-04-08 18:37:21] [FAILED] 000858 - 五粮液 财务数据下载失败: module 'baostock' has no attribute 'query_stock_financial_data'
+[2026-04-08 18:37:21] [FAILED] 600104 - 上汽集团 财务数据下载失败: module 'baostock' has no attribute 'query_stock_financial_data'
+[2026-04-08 18:37:21] [FAILED] 002594 - 比亚迪 财务数据下载失败: module 'baostock' has no attribute 'query_stock_financial_data'
+[2026-04-08 18:37:21] [FAILED] 600048 - 保利发展 财务数据下载失败: module 'baostock' has no attribute 'query_stock_financial_data'
+[2026-04-08 18:37:21] [FAILED] 000002 - 万科A 财务数据下载失败: module 'baostock' has no attribute 'query_stock_financial_data'
+[2026-04-08 18:37:21] [FAILED] 601857 - 中国石油 财务数据下载失败: module 'baostock' has no attribute 'query_stock_financial_data'
+[2026-04-08 18:37:21] [FAILED] 600050 - 中国联通 财务数据下载失败: module 'baostock' has no attribute 'query_stock_financial_data'
+[2026-04-08 18:37:21] [ERROR] SYSTEM - 未获取到任何财务数据
+[2026-04-08 18:37:22] [INFO] SYSTEM - Baostock 登出完成
+[2026-04-08 18:38:57] [SUCCESS] SYSTEM - Baostock 登录成功
+[2026-04-08 18:38:57] [FAILED] 600036 - 招商银行 财务数据下载异常: module 'baostock' has no attribute 'query_stock_financial_indicator'
+[2026-04-08 18:38:57] [FAILED] 601166 - 兴业银行 财务数据下载异常: module 'baostock' has no attribute 'query_stock_financial_indicator'
+[2026-04-08 18:38:57] [FAILED] 600519 - 贵州茅台 财务数据下载异常: module 'baostock' has no attribute 'query_stock_financial_indicator'
+[2026-04-08 18:38:57] [FAILED] 000858 - 五粮液 财务数据下载异常: module 'baostock' has no attribute 'query_stock_financial_indicator'
+[2026-04-08 18:38:57] [FAILED] 600104 - 上汽集团 财务数据下载异常: module 'baostock' has no attribute 'query_stock_financial_indicator'
+[2026-04-08 18:38:57] [FAILED] 002594 - 比亚迪 财务数据下载异常: module 'baostock' has no attribute 'query_stock_financial_indicator'
+[2026-04-08 18:38:57] [FAILED] 600048 - 保利发展 财务数据下载异常: module 'baostock' has no attribute 'query_stock_financial_indicator'
+[2026-04-08 18:38:57] [FAILED] 000002 - 万科A 财务数据下载异常: module 'baostock' has no attribute 'query_stock_financial_indicator'
+[2026-04-08 18:38:57] [FAILED] 601857 - 中国石油 财务数据下载异常: module 'baostock' has no attribute 'query_stock_financial_indicator'
+[2026-04-08 18:38:57] [FAILED] 600050 - 中国联通 财务数据下载异常: module 'baostock' has no attribute 'query_stock_financial_indicator'
+[2026-04-08 18:38:57] [ERROR] SYSTEM - 未获取到任何财务数据
+[2026-04-08 18:38:57] [INFO] SYSTEM - Baostock 登出完成
+[2026-04-08 18:40:49] [SUCCESS] finance_600036 - 招商银行 财务数据提取完成，共 0 条记录
+[2026-04-08 18:40:57] [SUCCESS] finance_601166 - 兴业银行 财务数据提取完成，共 0 条记录
+[2026-04-08 18:41:06] [SUCCESS] finance_600519 - 贵州茅台 财务数据提取完成，共 0 条记录
+[2026-04-08 18:41:14] [SUCCESS] finance_000858 - 五粮液 财务数据提取完成，共 0 条记录
+[2026-04-08 18:41:22] [SUCCESS] finance_600104 - 上汽集团 财务数据提取完成，共 0 条记录
+[2026-04-08 18:41:30] [SUCCESS] finance_002594 - 比亚迪 财务数据提取完成，共 0 条记录
+[2026-04-08 18:41:38] [SUCCESS] finance_600048 - 保利发展 财务数据提取完成，共 0 条记录
+[2026-04-08 18:41:46] [SUCCESS] finance_000002 - 万科A 财务数据提取完成，共 0 条记录
+[2026-04-08 18:41:54] [SUCCESS] finance_601857 - 中国石油 财务数据提取完成，共 0 条记录
+[2026-04-08 18:42:04] [SUCCESS] finance_600050 - 中国联通 财务数据提取完成，共 0 条记录
+[2026-04-08 18:42:04] [ERROR] SYSTEM - 未获取到任何财务数据
+[2026-04-08 18:42:04] [INFO] SYSTEM - Baostock 登出完成
+[2026-04-08 18:42:22] [SUCCESS] finance_600036 - 招商银行 财务数据提取完成，共 0 条记录
+[2026-04-08 18:42:38] [SUCCESS] finance_601166 - 兴业银行 财务数据提取完成，共 0 条记录
+[2026-04-08 18:42:54] [SUCCESS] finance_600519 - 贵州茅台 财务数据提取完成，共 0 条记录
+[2026-04-08 18:43:07] [SUCCESS] finance_000858 - 五粮液 财务数据提取完成，共 0 条记录
+[2026-04-08 18:43:23] [SUCCESS] finance_600104 - 上汽集团 财务数据提取完成，共 0 条记录
+[2026-04-08 18:43:41] [SUCCESS] finance_002594 - 比亚迪 财务数据提取完成，共 0 条记录
+[2026-04-08 18:43:56] [SUCCESS] finance_600048 - 保利发展 财务数据提取完成，共 0 条记录
+[2026-04-08 18:44:13] [SUCCESS] finance_000002 - 万科A 财务数据提取完成，共 0 条记录
+[2026-04-08 18:52:22] [SUCCESS] SYSTEM - Baostock 登录成功
+[2026-04-08 18:52:24] [SUCCESS] 600036 - 招商银行 下载成功, 共 1516 行
+[2026-04-08 18:52:27] [SUCCESS] 601166 - 兴业银行 下载成功, 共 1516 行
+[2026-04-08 18:52:29] [SUCCESS] 600519 - 贵州茅台 下载成功, 共 1516 行
+[2026-04-08 18:52:31] [SUCCESS] 000858 - 五粮液 下载成功, 共 1516 行
+[2026-04-08 18:52:33] [SUCCESS] 600104 - 上汽集团 下载成功, 共 1516 行
+[2026-04-08 18:52:36] [SUCCESS] 002594 - 比亚迪 下载成功, 共 1516 行
+[2026-04-08 18:52:38] [SUCCESS] 600048 - 保利发展 下载成功, 共 1516 行
+[2026-04-08 18:52:41] [SUCCESS] 000002 - 万科A 下载成功, 共 1516 行
+[2026-04-08 18:52:44] [SUCCESS] 601857 - 中国石油 下载成功, 共 1516 行
+[2026-04-08 18:52:47] [SUCCESS] 600050 - 中国联通 下载成功, 共 1516 行
+[2026-04-08 18:52:47] [INFO] SYSTEM - Baostock 登出完成
+[2026-04-08 18:55:12] [SUCCESS] SYSTEM - Baostock 登录成功
+[2026-04-08 18:55:16] [SUCCESS] 600036 - 招商银行 下载成功, 共 1516 行
+[2026-04-08 18:55:18] [SUCCESS] 601166 - 兴业银行 下载成功, 共 1516 行
+[2026-04-08 18:55:21] [SUCCESS] 600519 - 贵州茅台 下载成功, 共 1516 行
+[2026-04-08 18:55:24] [SUCCESS] 000858 - 五粮液 下载成功, 共 1516 行
+[2026-04-08 18:55:26] [SUCCESS] 600104 - 上汽集团 下载成功, 共 1516 行
+[2026-04-08 18:55:28] [SUCCESS] 002594 - 比亚迪 下载成功, 共 1516 行
+[2026-04-08 18:55:32] [SUCCESS] 600048 - 保利发展 下载成功, 共 1516 行
+[2026-04-08 18:55:34] [SUCCESS] 000002 - 万科A 下载成功, 共 1516 行
+[2026-04-08 18:55:37] [SUCCESS] 601857 - 中国石油 下载成功, 共 1516 行
+[2026-04-08 18:55:41] [SUCCESS] 600050 - 中国联通 下载成功, 共 1516 行
+[2026-04-08 18:55:41] [INFO] SYSTEM - Baostock 登出完成
+[2026-04-08 18:55:48] [SUCCESS] SYSTEM - Baostock 登录成功
+[2026-04-08 18:55:50] [SUCCESS] sh.000300 - 沪深 300 下载成功, 共 1516 行
+[2026-04-08 18:55:55] [SUCCESS] sh.000905 - 中证 500 下载成功, 共 1516 行
+[2026-04-08 18:55:56] [INFO] SYSTEM - Baostock 登出完成
+[2026-04-08 18:56:00] [SUCCESS] SYSTEM - Baostock 登录成功
+[2026-04-08 18:56:03] [SUCCESS] sh.000300 - 沪深 300 下载完成, 共 1516 行
+[2026-04-08 18:56:06] [SUCCESS] sh.000905 - 中证 500 下载完成, 共 1516 行
+[2026-04-08 18:56:07] [INFO] SYSTEM - Baostock 登出完成
+[2026-04-08 18:56:51] [SUCCESS] finance_600036 - 招商银行 财务数据提取完成，共 0 条记录
+[2026-04-08 18:57:12] [SUCCESS] finance_601166 - 兴业银行 财务数据提取完成，共 0 条记录
+[2026-04-08 18:57:30] [SUCCESS] finance_600519 - 贵州茅台 财务数据提取完成，共 0 条记录
+[2026-04-08 18:57:44] [SUCCESS] finance_000858 - 五粮液 财务数据提取完成，共 0 条记录
+[2026-04-08 18:57:58] [SUCCESS] finance_600104 - 上汽集团 财务数据提取完成，共 0 条记录
+[2026-04-08 18:58:11] [SUCCESS] finance_002594 - 比亚迪 财务数据提取完成，共 0 条记录
+[2026-04-08 18:58:41] [SUCCESS] finance_600036 - 招商银行 财务数据提取完成，共 0 条记录
+[2026-04-08 18:58:57] [SUCCESS] finance_601166 - 兴业银行 财务数据提取完成，共 0 条记录
+[2026-04-08 19:00:01] [SUCCESS] CPI - CPI 下载完成, 共 477 行, 保存到 data/macro\macro_cpi.csv
+[2026-04-08 19:00:02] [SUCCESS] USD - 美元汇率下载完成, 共 180 行, 保存到 data/macro\macro_usd.csv
+[2026-04-08 19:01:11] [SUCCESS] 600036 - 招商银行 财务数据提取完成，共 0 条记录
+[2026-04-08 19:01:35] [SUCCESS] 601166 - 兴业银行 财务数据提取完成，共 0 条记录
+[2026-04-08 19:01:55] [FAILED] 600036 - 招商银行 数据获取异常: 'report_date'
+[2026-04-08 19:01:55] [FAILED] 601166 - 兴业银行 数据为空
+[2026-04-08 19:01:56] [FAILED] 600519 - 贵州茅台 数据为空
+[2026-04-08 19:01:56] [FAILED] 000858 - 五粮液 数据为空
+[2026-04-08 19:01:57] [FAILED] 600104 - 上汽集团 数据为空
+[2026-04-08 19:01:57] [FAILED] 002594 - 比亚迪 数据为空
+[2026-04-08 19:01:58] [FAILED] 600048 - 保利发展 数据为空
+[2026-04-08 19:01:58] [FAILED] 000002 - 万科A 数据为空
+[2026-04-08 19:01:59] [FAILED] 601857 - 中国石油 数据为空
+[2026-04-08 19:01:59] [FAILED] 600050 - 中国联通 数据为空
+[2026-04-08 19:01:59] [ERROR] SYSTEM - 未获取到任何财务数据
+[2026-04-08 19:02:34] [FAILED] 600036 - 招商银行 异常: module 'baostock' has no attribute 'query_financial_data'
+[2026-04-08 19:02:34] [FAILED] 601166 - 兴业银行 异常: module 'baostock' has no attribute 'query_financial_data'
+[2026-04-08 19:02:34] [FAILED] 600519 - 贵州茅台 异常: module 'baostock' has no attribute 'query_financial_data'
+[2026-04-08 19:02:34] [FAILED] 000858 - 五粮液 异常: module 'baostock' has no attribute 'query_financial_data'
+[2026-04-08 19:02:34] [FAILED] 600104 - 上汽集团 异常: module 'baostock' has no attribute 'query_financial_data'
+[2026-04-08 19:02:34] [FAILED] 002594 - 比亚迪 异常: module 'baostock' has no attribute 'query_financial_data'
+[2026-04-08 19:02:34] [FAILED] 600048 - 保利发展 异常: module 'baostock' has no attribute 'query_financial_data'
+[2026-04-08 19:02:34] [FAILED] 000002 - 万科A 异常: module 'baostock' has no attribute 'query_financial_data'
+[2026-04-08 19:02:34] [FAILED] 601857 - 中国石油 异常: module 'baostock' has no attribute 'query_financial_data'
+[2026-04-08 19:02:34] [FAILED] 600050 - 中国联通 异常: module 'baostock' has no attribute 'query_financial_data'
+[2026-04-08 19:02:34] [ERROR] SYSTEM - 未获取到任何财务数据
+[2026-04-08 19:02:36] [INFO] SYSTEM - Baostock 登出完成
+[2026-04-08 19:03:49] [SUCCESS] 600036 - 招商银行 数据提取完成, 共 0 条记录
+[2026-04-08 19:04:08] [SUCCESS] 601166 - 兴业银行 数据提取完成, 共 0 条记录
+[2026-04-08 19:05:21] [SUCCESS] 600036 - 招商银行 数据提取完成, 共 15 条记录
+[2026-04-08 19:05:45] [SUCCESS] 601166 - 兴业银行 数据提取完成, 共 15 条记录
+[2026-04-08 19:06:07] [SUCCESS] 600519 - 贵州茅台 数据提取完成, 共 15 条记录
+[2026-04-08 19:06:31] [SUCCESS] 000858 - 五粮液 数据提取完成, 共 15 条记录
+[2026-04-08 19:06:51] [SUCCESS] 600104 - 上汽集团 数据提取完成, 共 15 条记录
+[2026-04-08 19:07:14] [SUCCESS] 002594 - 比亚迪 数据提取完成, 共 15 条记录
+[2026-04-08 19:07:40] [SUCCESS] 600048 - 保利发展 数据提取完成, 共 15 条记录
+[2026-04-08 19:08:06] [SUCCESS] 000002 - 万科A 数据提取完成, 共 15 条记录
+[2026-04-08 19:08:31] [SUCCESS] 601857 - 中国石油 数据提取完成, 共 15 条记录
+[2026-04-08 19:08:52] [SUCCESS] 600050 - 中国联通 数据提取完成, 共 15 条记录
+[2026-04-08 19:08:52] [INFO] SYSTEM - 财务数据保存完成, 共 150 条记录
+[2026-04-08 19:08:53] [INFO] SYSTEM - Baostock 登出完成

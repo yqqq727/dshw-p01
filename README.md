@@ -1,6 +1,6 @@
 # DSHW-P01: 股票市场数据分析项目
 
-[![GitHub](https://img.shields.io/badge/GitHub-仓库-blue.svg)](https://github.com/yourusername/dshw-p01)
+[![GitHub](https://img.shields.io/badge/GitHub-仓库-blue.svg)](https://github.com/yqqq727/dshw-p01)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
 
@@ -205,7 +205,7 @@ tabulate>=0.9.0
 
 1. **克隆项目**
 ```bash
-git clone https://github.com/yourusername/dshw-p01.git
+git clone https://github.com/yqqq727/dshw-p01.git
 cd dshw-p01
 ```
 
@@ -268,7 +268,7 @@ xdg-open report.html  # Linux
 ## GitHub 仓库
 
 完整项目代码与数据分析报告请访问：
-**[https://github.com/yourusername/dshw-p01](https://github.com/yourusername/dshw-p01)**
+**[https://github.com/yqqq727/dshw-p01](https://github.com/yqqq727/dshw-p01)**
 
 ### 仓库内容
 - ✅ 完整的 Jupyter Notebook 代码（3个主要分析流程）
